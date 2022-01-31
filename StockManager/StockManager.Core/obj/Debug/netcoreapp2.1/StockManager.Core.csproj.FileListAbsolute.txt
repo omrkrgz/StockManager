@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\StockManager\StockManager.Core\bin\Debug\netcoreapp2.1\StockManager.Core.deps.json
+C:\Users\HP\source\repos\StockManager\StockManager.Core\bin\Debug\netcoreapp2.1\StockManager.Core.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Core\bin\Debug\netcoreapp2.1\StockManager.Core.pdb
+C:\Users\HP\source\repos\StockManager\StockManager.Core\obj\Debug\netcoreapp2.1\StockManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StockManager\StockManager.Core\obj\Debug\netcoreapp2.1\StockManager.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StockManager\StockManager.Core\obj\Debug\netcoreapp2.1\StockManager.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\StockManager\StockManager.Core\obj\Debug\netcoreapp2.1\StockManager.Core.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Core\obj\Debug\netcoreapp2.1\StockManager.Core.pdb

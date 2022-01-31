@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Business.deps.json
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Business.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Business.pdb
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.DataAccess.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Entities.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.DataAccess.pdb
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Entities.pdb
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.AssemblyInfo.cs
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.csproj.CopyComplete
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Business\obj\Debug\netcoreapp2.1\StockManager.Business.pdb
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Core.dll
+C:\Users\HP\source\repos\StockManager\StockManager.Business\bin\Debug\netcoreapp2.1\StockManager.Core.pdb

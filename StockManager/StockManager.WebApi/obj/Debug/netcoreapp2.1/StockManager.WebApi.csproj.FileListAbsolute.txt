@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\bin\Debug\netcoreapp2.1\StockManager.WebApi.deps.json
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\bin\Debug\netcoreapp2.1\StockManager.WebApi.runtimeconfig.json
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\bin\Debug\netcoreapp2.1\StockManager.WebApi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\bin\Debug\netcoreapp2.1\StockManager.WebApi.dll
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\bin\Debug\netcoreapp2.1\StockManager.WebApi.pdb
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.AssemblyInfo.cs
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.dll
+C:\Users\HP\source\repos\StockManager\StockManager.WebApi\obj\Debug\netcoreapp2.1\StockManager.WebApi.pdb
